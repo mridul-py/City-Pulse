@@ -82,12 +82,7 @@ A CSV named `simulated_urban_sensor_data.csv` contains:
 - **Matplotlib, PyDeck:** Visualization  
 - **Jupyter Notebook:** Development environment  
 
-## 📌 Next Steps
 
-- Replace synthetic data with live API feeds  
-- Add new sensor types (weather, water usage)  
-- Build a web dashboard using Streamlit or Dash  
-- Extend anomaly detection logic with LSTM or Autoencoders
 
 ## 🤝 Contributing
 
