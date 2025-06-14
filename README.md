@@ -24,7 +24,7 @@ While public APIs exist for real-world data, they are often:
 - **Rate-limited** or behind paywalls  
 - **Lacking granularity** (e.g., neighborhood-level noise)
 
-So, I **curated a synthetic dataset** using distributions and values inspired by real APIs. This gave me full control to:
+So, I **curated a synthetic dataset** using distributions and values  by real APIs. This gave me full control to:
 
 - Inject meaningful anomalies  
 - Simulate city-scale data across 100 zones  
